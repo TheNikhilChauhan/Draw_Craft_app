@@ -1,5 +1,5 @@
 {
-  "name": "DrawCraft",
+  "name": "draw-craft",
   "private": true,
   "scripts": {
     "build": "turbo build",
